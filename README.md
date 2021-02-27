@@ -17,5 +17,6 @@ Para rodar a aplicação basta executar os seguintes comandos:
 <h3>yarn typeorm migration:run</h3>
 <h3>yarn dev</h3>
 
+<br />
 Para os testes:
 <h3>yarn test</h3>
